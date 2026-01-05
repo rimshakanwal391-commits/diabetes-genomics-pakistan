@@ -7,11 +7,11 @@
 
 ---
 
-## 🔬 Project Overview
+## Project Overview
 
 This project represents an undergraduate-level investigation into the genetic variants associated with Type 2 Diabetes (T2D) susceptibility in the Pakistani population. With Pakistan facing one of the world's highest diabetes prevalence rates (~30% of adults), understanding population-specific genetic risk factors is critical for developing targeted prevention and intervention strategies.
 
-## 🎯 Research Motivation
+## Research Motivation
 
 Pakistan is experiencing a diabetes epidemic:
 - **Current Prevalence**: ~30% of adult population
@@ -21,7 +21,7 @@ Pakistan is experiencing a diabetes epidemic:
 
 This project aims to bridge the gap between global diabetes genomics research and the urgent needs of the Pakistani population.
 
-## 📊 Project Objectives
+## Project Objectives
 
 1. **Literature Analysis**: Comprehensive review of genetic variants associated with T2D in South Asian populations
 2. **Variant Prioritization**: Identify key SNPs (Single Nucleotide Polymorphisms) relevant to Pakistani genomes
@@ -57,7 +57,7 @@ This project aims to bridge the gap between global diabetes genomics research an
 - **GRB14**: Glucose and insulin metabolism
 - **HMG20A**: Implicated in South Asian T2D studies
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 diabetes-genomics-pakistan/
@@ -108,7 +108,7 @@ diabetes-genomics-pakistan/
     └── presentation_slides/
 ```
 
-## 💻 Technical Approach
+##  Technical Approach
 
 ### 1. Data Collection
 - **Literature Mining**: PubMed, Google Scholar for South Asian diabetes GWAS
@@ -163,7 +163,7 @@ plot_population_comparison()
 plot_gene_interaction_network()
 ```
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 
 1. **Comprehensive Variant Database**
    - Curated list of 50+ T2D-associated variants
@@ -273,7 +273,7 @@ Seeking collaboration with:
 - Genetic counselors
 - Data scientists and AI/ML experts
 
-## 📖 References
+## References
 
 ### Key Papers:
 1. Diabetes genetics in South Asian populations (Review papers)
